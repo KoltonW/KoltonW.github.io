@@ -1,0 +1,6 @@
+---
+layout: post
+title: Second Blog Post
+---
+
+Prior to this course, I had a little bit of programming experience with the SAS language, as I have taken two classes revolving around SAS since I have attended NC State. Up to this point, I like R and the simplicity of R Studio better than SAS. In particular, it is nice to not have to remember a semicolon after each statement, like in SAS, or to explicitely state the proc or data step to run with the "run" statement. Also, with R Markdown within R, I like the ability to run chunks of code and get results quickly along with having the notepad environment all within one area before having to knit or print the results. However, one thing I liked about SAS was the use of the log to aid in debugging code. The console in R Studio has a similar purpose, but the SAS log was very helpful in seeing the full amount of code being run along with note, error, and warning comments mixed in. Printing comments and results to the log was also a nice functionality to have in SAS. Overall, R has not been too terribly hard to get a grasp of. Having some prior experience in a programming environment with SAS helps understand certain concepts, and once I was able to gain some knowledge on how R worked differently and obtain a solid base, the other parts building on top haven't been as difficult as I would have thought. 
