@@ -1,7 +1,7 @@
 ---
- layout: post
- title: Project 1 Blog Post
- ---
+layout: post
+title: Project 1 Blog Post
+---
  
  [Here is a link to my Project 1 Github page](https://koltonw.github.io/ST558Project1/)
  
